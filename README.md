@@ -1,6 +1,6 @@
 # VR_Dublin
 
-This VR city is build by Unity and Oculus interaction.
+This VR city is developed by Unity and Oculus interaction.
 
 ![2](https://github.com/Weiwei-Wan/VR_Dublin_Tour/assets/74362292/c43f72d2-725b-4016-85b2-736d16596876)
 
